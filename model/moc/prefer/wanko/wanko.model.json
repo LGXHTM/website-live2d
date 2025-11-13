@@ -3,7 +3,6 @@
     "name":"wanko",
     "model":"moc/wanko.moc",
     "textures":["moc/wanko.1024/texture_00.png"],
-    "hit_areas":[{"name":"body","id":"D_REF.PT_SOBA_01"}],
     "layout":{
         "center_x":-0.2,
         "center_y":0.4,
