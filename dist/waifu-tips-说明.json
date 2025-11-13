@@ -1,4 +1,5 @@
 {
+    // 该文件仅仅作为说明waifu-tips.json使用
     // 每一项绑定一个 selector（CSS 选择器）和若干 text。当鼠标悬停到这些元素上时，看板娘会从对应的 text 数组里随机挑一句显示（例如悬停“换模型”按钮 #waifu-tool-switch-model 会说“要切换看板娘吗？”等）
   "mouseover": [{
     "selector": "#waifu-tool-hitokoto",
@@ -310,7 +311,7 @@
     "message": "是 Hiyori 哦 ~"
   }]
   
-//   他人代码
+//   调用他人实现代码
   
   {
     "name": "prefer/hijiki",
@@ -365,61 +366,5 @@
     "paths": ["https://raw.githubusercontent.com/zenghongtu/live2d-model-assets/master/assets/moc3/sipeibojue_5/sipeibojue_5.model3.json"],
     "message": "斯佩伯爵巡航模式启动——目标锁定，随时可以出击。"
   },
-//   我自己的代码
-{
-    "name": "prefer/hijiki",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc/prefer/hijiki/index.json"],
-    "message": "喵～我是Hijiki，今天也要软乎乎地打招呼！"
-  }, {
-    "name": "prefer/wanko",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc/prefer/wanko/wanko.model.json"],
-    "message": "汪！Wanko就位，一起开始今天的巡逻与玩耍吧！"
-  }, {
-    "name": "prefer/tororo",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc/prefer/tororo/tororo.model.json"],
-    "message": "呼噜～Tororo来啦，需要一点治愈能量吗？"
-  }, {
-    "name": "prefer/histoire",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc/prefer/histoire/histoire.model.json"],
-    "message": "Histoire已连接：正在检索档案与指令日志，请开始你的操作。"
-  }, {
-    "name": "prefer/kesyoban",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc/prefer/kesyoban/kesyoban.model.json"],
-    "message": "Kesyoban报道，舞台灯光OK，随时开始表演～"
-  }, {
-    "name": "prefer/penchan",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc/prefer/penchan/penchan.model.json"],
-    "message": "Penchan咕啾登场！企鹅的可爱支援已就绪！"
-  }, {
-    "name": "prefer/koharu",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc/prefer/koharu/koharu.model.json"],
-    "message": "小春Koharu在这里～今天也请多多关照♪"
-  }, {
-    "name": "prefer/dafeng_4",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc3/prefer3/dafeng_4/dafeng_4.model3.json"],
-    "message": "大凤待命——指挥官，航母支援与演示效果已准备完毕。"
-  }, {
-    "name": "prefer/dujiaoshou_4",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc3/prefer3/dujiaoshou_4/dujiaoshou_4.model3.json"],
-    "message": "独角兽会努力的……请放心把任务交给我。"
-  }, {
-    "name": "prefer/kubo_2",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc3/prefer3/kubo_2/kubo_2.model3.json"],
-    "message": "Kubo系统校准完成，进入练习海域，随时接受指令。"
-  }, {
-    "name": "prefer/lafei_4",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc3/prefer3/lafei_4/lafei_4.model3.json"],
-    "message": "拉菲有点想睡……不过任务的话，还是会好好完成的。"
-  }, {
-    "name": "prefer/lingbo",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc3/prefer3/lingbo/lingbo.model3.json"],
-    "message": "绫波，静静地……开始行动。请下达作战指示。"
-  }, {
-    "name": "prefer/sipeibojue_5",
-    "paths": ["https://www.ganglitm.cn/live2d-widget/model/moc3/prefer3/sipeibojue_5/sipeibojue_5.model3.json"],
-    "message": "斯佩伯爵巡航模式启动——目标锁定，随时可以出击。"
-  },
-  
-//   https://www.ganglitm.cn/live2d-widget/model/prefer/hijiki/index.json
-//   https://www.ganglitm.cn/live2d-widget/model/prefer3/hijiki/index.json
+
 }
