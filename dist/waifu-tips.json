@@ -257,55 +257,55 @@
   },
   "models": [{
     "name": "prefer/hijiki",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/hijiki/hijiki.model.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/prefer/hijiki/hijiki.model.json"],
     "message": "喵～我是Hijiki，今天也要软乎乎地打招呼！"
   }, {
     "name": "prefer/wanko",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/wanko/wanko.model.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/prefer/wanko/wanko.model.json"],
     "message": "汪！Wanko就位，一起开始今天的巡逻与玩耍吧！"
   }, {
     "name": "prefer/tororo",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/tororo/tororo.model.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/prefer/tororo/tororo.model.json"],
     "message": "呼噜～Tororo来啦，需要一点治愈能量吗？"
   }, {
     "name": "prefer/histoire",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/histoire/histoire.model.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/prefer/histoire/histoire.model.json"],
     "message": "Histoire已连接：正在检索档案与指令日志，请开始你的操作。"
   }, {
     "name": "prefer/kesyoban",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/kesyoban/kesyoban.model.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/prefer/kesyoban/kesyoban.model.json"],
     "message": "Kesyoban报道，舞台灯光OK，随时开始表演～"
   }, {
     "name": "prefer/penchan",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/penchan/penchan.model.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/prefer/penchan/penchan.model.json"],
     "message": "Penchan咕啾登场！企鹅的可爱支援已就绪！"
   }, {
     "name": "prefer/koharu",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/koharu/koharu.model.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc/prefer/koharu/koharu.model.json"],
     "message": "小春Koharu在这里～今天也请多多关照♪"
   }, {
     "name": "prefer/dafeng_4",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/dafeng_4/dafeng_4.model3.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/prefer3/dafeng_4/dafeng_4.model3.json"],
     "message": "大凤待命——指挥官，航母支援与演示效果已准备完毕。"
   }, {
     "name": "prefer/dujiaoshou_4",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/dujiaoshou_4/dujiaoshou_4.model3.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/prefer3/dujiaoshou_4/dujiaoshou_4.model3.json"],
     "message": "独角兽会努力的……请放心把任务交给我。"
   }, {
     "name": "prefer/kubo_2",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/kubo_2/kubo_2.model3.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/prefer3/kubo_2/kubo_2.model3.json"],
     "message": "Kubo系统校准完成，进入练习海域，随时接受指令。"
   }, {
     "name": "prefer/lafei_4",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/lafei_4/lafei_4.model3.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/prefer3/lafei_4/lafei_4.model3.json"],
     "message": "拉菲有点想睡……不过任务的话，还是会好好完成的。"
   }, {
     "name": "prefer/lingbo",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/lingbo/lingbo.model3.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/prefer3/lingbo/lingbo.model3.json"],
     "message": "绫波，静静地……开始行动。请下达作战指示。"
   }, {
     "name": "prefer/sipeibojue_5",
-    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/sipeibojue_5/sipeibojue_5.model3.json"],
+    "paths": ["https://cdn.jsdelivr.net/gh/LGXHTM/website-live2d/model/moc3/prefer3/sipeibojue_5/sipeibojue_5.model3.json"],
     "message": "斯佩伯爵巡航模式启动——目标锁定，随时可以出击。"
   }]
 }
