@@ -1,0 +1,8 @@
+{
+  "models": [ 
+    "prefer/hijiki"
+  ],
+  "messages": [
+    "Welcome"
+  ]
+}
